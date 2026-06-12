@@ -1,4 +1,4 @@
-# Car Match
+# Car Dekho
 
 A guided quiz that takes a confused car buyer from *"I don't know what to buy"* to *"I'm confident about my shortlist."*
 
